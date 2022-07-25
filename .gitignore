@@ -1,3 +1,6 @@
+# ignore single file
+
 new-file.txt
 
+# ignore all file in bin directory
 bin/
