@@ -1,0 +1,3 @@
+Some content in the new file
+
+Another line in new-file.txt
